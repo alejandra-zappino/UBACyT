@@ -4,3 +4,4 @@
 
 Palabras clave: 1) Hermenéutica 2) Metodología 3) Investigación cualitativa
 
+### Encuentros 2023
