@@ -15,11 +15,32 @@ title: Mermaid Example
 # Ejemplo de Diagrama Mermaid
 
 <div class="mermaid">
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
+flowchart LR
+	G(Psicogénesis):::blue
+	P(Jusomas):::pink  
+	DR(Derecho Real):::orange  
+	Ap(aprendizaje):::green
+	APS(aprendizaje social):::red  
+	APL("`aprendizaje categorial lógico operacional`"):::pink
+  AU(autores):::red
+  S(Schlemenson):::orange
+  K(Hans Kelsen):::mostaza 
+  C(Carlos Cossio):::violet
+  
+	G-.-P
+	G-.-DR
+	G-.-Ap
+	G-.-AU
+	Ap-.-APS & APL
+  AU-.-S & K & C
+  
+	classDef blue  fill:#2374f7, stroke:#000, stroke-width:2px, color:#fff
+	classDef pink  fill:#eb3dd6,stroke:#000, stroke-width:2px, color:#fff
+	classDef orange  fill:#fc822b,stroke:#000,stroke-width:2px,color:#fff
+	classDef red  fill:#ed2633,stroke:#000,stroke-width:2px,color:#fff
+	classDef green  fill:#16b522,stroke:#000,stroke-width:2px,color:#fff
+	classDef mostaza fill:#CDC405,stroke:#000,stroke-width:2px,color:#fff
+	classDef violet fill:#7218F5,stroke:#000,stroke-width:2px,color:#fff
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
