@@ -7,10 +7,7 @@ Amplié bastante la bibliografía generada por las distintas etapas, creo que lo
 
 Toda la obra y el pensamiento de Samaja está articulado con este enfoque del proyecto que llamamos de psicogénesis de la experiencia jurídica infantil. Porque parte del supuesto de entramar la vida social con el desarrollo cognitivo y subjetivo en general, entramar los elementos por decir así afectivos con los cognitivos; no divorciar el aprendizaje social del aprendizaje categorial lógico operacional en el sentido piagetiano. Entonces hay ahí una vocación que tiene por supuesto diálogos muy abiertos muy permeables con tradiciones bien consagradas en la tradición de la psicología del desarrollo y la psicología cognitiva desde Piaget y por supuesto pero también con otros enfoques como la línea de la etología, la línea del conflicto socio-cognitivo.
 
----
-layout: default
-title: Mermaid Example
----
+
 
 # Ejemplo de Diagrama Mermaid
 
